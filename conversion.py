@@ -9,4 +9,4 @@ for i in range(q):
     if q = something that never came before:
        # Make changes accordingly in nfa
     else:
-        #check other states transition function
+       # check other states transition function
